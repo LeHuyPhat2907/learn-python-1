@@ -1,0 +1,6 @@
+name = input("Bạn tên gì? ")
+print(name)
+favorite_food = input("Bạn thích ăn gì? ")
+print(favorite_food)
+learning_class = input("Bạn đang học lớp mấy?")
+print(learning_class)
